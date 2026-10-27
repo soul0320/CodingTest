@@ -1,0 +1,5 @@
+A=input()
+if A == "You":
+    print("Me")
+else:
+    print("No")
