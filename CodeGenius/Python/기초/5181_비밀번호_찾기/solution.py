@@ -1,0 +1,1 @@
+print(input().split('c')[0]+'c')
