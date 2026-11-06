@@ -1,0 +1,1 @@
+s=input().strip();print(len(s),len(s)-s.count(' '),len(s.split()),sep='\n')
