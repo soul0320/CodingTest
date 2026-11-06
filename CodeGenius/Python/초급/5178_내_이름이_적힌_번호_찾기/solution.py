@@ -1,0 +1,1 @@
+n,s,*a=open(0).read().split();print(a.index(s)+1)
