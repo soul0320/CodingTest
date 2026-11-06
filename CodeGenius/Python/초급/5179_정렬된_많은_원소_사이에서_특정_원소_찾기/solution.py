@@ -1,0 +1,1 @@
+n,k,*a=open(0).read().split();print(a.index(k)+1 if k in a else -1)
