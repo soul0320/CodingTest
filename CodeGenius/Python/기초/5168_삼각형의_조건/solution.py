@@ -1,0 +1,1 @@
+print('P'if sum(map(int,input().split()))==180else'F')
