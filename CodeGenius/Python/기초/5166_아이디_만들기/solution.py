@@ -1,0 +1,1 @@
+print('P'if len(input())<=20 else'I')
