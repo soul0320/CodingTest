@@ -1,0 +1,1 @@
+print(sum(c=='F'and(i+j)%2<1for i in range(8)for j,c in enumerate(input())))
