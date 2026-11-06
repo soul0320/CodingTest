@@ -1,0 +1,1 @@
+print(['STAY','RUN'][int(input())%2])
