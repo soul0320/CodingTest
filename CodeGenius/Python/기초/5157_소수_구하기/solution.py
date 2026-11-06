@@ -1,0 +1,1 @@
+print(sum(all(i%j for j in range(2,i))for i in range(2,int(input())+1)))
