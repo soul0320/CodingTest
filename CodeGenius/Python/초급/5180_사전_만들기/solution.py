@@ -1,0 +1,1 @@
+n,*a=open(0).read().split();print(*sorted(set(a),key=lambda w:(len(w),w)),sep='\n')
