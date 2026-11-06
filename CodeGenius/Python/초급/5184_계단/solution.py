@@ -1,0 +1,1 @@
+n,k=map(int,input().split());d=k-n;print(-d//3*-4-d)
